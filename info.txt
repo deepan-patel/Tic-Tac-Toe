@@ -1,0 +1,1 @@
+This is a c++ program which allows the user to play against a skilled computer in the classical game tic tac toe. Check it out and try to find way to beat the computer :).
